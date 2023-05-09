@@ -1,0 +1,17 @@
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.csproj.AssemblyReference.cache
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.csproj.GenerateResource.cache
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.AssemblyInfoInputs.cache
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.AssemblyInfo.cs
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\bin\Debug\net6.0-windows\ClearCacheAdvanced.exe
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\bin\Debug\net6.0-windows\ClearCacheAdvanced.deps.json
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\bin\Debug\net6.0-windows\ClearCacheAdvanced.runtimeconfig.json
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\bin\Debug\net6.0-windows\ClearCacheAdvanced.dll
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\bin\Debug\net6.0-windows\ClearCacheAdvanced.pdb
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.MainForm.resources
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.dll
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\refint\ClearCacheAdvanced.dll
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.pdb
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ClearCacheAdvanced.genruntimeconfig.cache
+C:\Users\cormi\Documents\ClearCacheAdvanced\ClearCacheAdvanced\ClearCacheAdvanced\obj\Debug\net6.0-windows\ref\ClearCacheAdvanced.dll
